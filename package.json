@@ -1,0 +1,27 @@
+{
+  "name": "url-shortener-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-nolimit/URL-Shortener-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-nolimit/URL-Shortener-/issues"
+  },
+  "homepage": "https://github.com/Sam-nolimit/URL-Shortener-#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0",
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16"
+  }
+}
