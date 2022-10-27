@@ -1,1 +1,1 @@
-npm ERR! missing script: start
+web: node server.js
