@@ -1,0 +1,1 @@
+npm ERR! missing script: start
